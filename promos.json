@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "categoryId": 1,
+        "title": "Lorem ipsum",
+        "code": "VIDA2022",
+        "coverImageUrl": "https://via.placeholder.com/150.png",
+        "bannerImageUrl": "https://via.placeholder.com/150.png",
+        "description": "Lorem ipsum dolor sit amet",
+        "terms": "Lorem ipsum dolor sit amet",
+        "startDate": 1617618148,
+        "endDate": 1617618148,
+        "rules": "{\"id\":12345,\"name\":\"John Doe\"}\n",
+        "status": 0,
+        "meta": {
+            "isActive": true,
+            "createdAt": 1617618148,
+            "updatedAt": 1617618148,
+            "deletedAt": 1617618148
+        }
+    },
+  {
+        "id": 2,
+        "categoryId": 1,
+        "title": "Lorem ipsum 2",
+        "code": "VIDA2023",
+        "coverImageUrl": "https://via.placeholder.com/150.png",
+        "bannerImageUrl": "https://via.placeholder.com/150.png",
+        "description": "Lorem ipsum dolor sit amet",
+        "terms": "Lorem ipsum dolor sit amet",
+        "startDate": 1617618148,
+        "endDate": 1617618148,
+        "rules": "{\"id\":12345,\"name\":\"John Doe\"}\n",
+        "status": 0,
+        "meta": {
+            "isActive": true,
+            "createdAt": 1617618148,
+            "updatedAt": 1617618148,
+            "deletedAt": 1617618148
+        }
+    }
+]
